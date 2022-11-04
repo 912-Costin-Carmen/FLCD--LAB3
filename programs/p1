@@ -1,0 +1,6 @@
+outcome= a;
+else if (b < a  b < c)
+outcome = b;
+else
+outcome = c;
+bring outcome;

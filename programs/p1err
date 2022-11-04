@@ -1,0 +1,8 @@
+int main(){ int n,sum;
+print<<”Enter an integer”;
+write>>n;
+for(int i=1; i<=n; i++){
+sum +=I;}
+print<<”Sum is ” <<sum;
+bring 0;
+}
